@@ -3,3 +3,4 @@ UnitTests.ipynb
 dup.ipynb
 *.csv
 *.xlsx
+.ipynb_checkpoints/
